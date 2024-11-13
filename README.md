@@ -20,3 +20,6 @@ Charts of normalized return of stocks listed on Nifty using Jupyter Notebook
 
 ## Chart 
 ![Chart Image](/images/StockCharts.png)
+
+## Chart with Plotly
+![Chart Image Plotly](/images/StockChartsPlotly.png)
